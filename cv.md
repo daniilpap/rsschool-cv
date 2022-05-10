@@ -12,7 +12,7 @@
 ---
 ## Briefly About Myself:
 
-I work on the POS project (this is an analogue of 1C for the BELWEST company). I am involved in the development and maintenance of the project.
+I work on the company named "LACIT" on POS project (this is an analogue of 1C for the BELWEST company). I am involved in the development and maintenance of the project.
 I took courses in java.
 I also know SQL, I can write scripts.
 I know how to work in a team, stress-resistant, trainable, able to work with a large amount of information, not conflict.
@@ -50,10 +50,11 @@ btn.addEventListener('click', () => {
 
 ## Courses:
 
-* HTML and CSS Tutorials on the w3schools (completed)
-* W3Schools Score
+* HTML and CSS Tutorials
 * JavaScript Manual on learnjavascript.ru (in progress)
-* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* SQL Oracle learning (sql-tutorial.ru)
+* Java cource on Stepic.org
+* JavaScript cource on Stepic.org
 
 
 ## Languages:
