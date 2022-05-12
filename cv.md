@@ -39,10 +39,10 @@ Add a click event handler to the button :
 ``` js
 const btn = document.querySelector('button');
 btn.addEventListener('click', () => {
-  alert('Вы нажали на кнопку!');
+  alert('You have pressed the button!');
 
   let pElem = document.createElement('p');
-  pElem.textContent = 'Это только что созданный и добавленный параграф.';
+  pElem.textContent = 'This is the created paragraph.';
   document.body.appendChild(pElem);
 });
 ```
@@ -59,5 +59,5 @@ btn.addEventListener('click', () => {
 
 ## Languages:
 
-* English - А2
+* English - Intermediate
 * Russian - Native
