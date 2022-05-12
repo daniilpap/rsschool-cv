@@ -1,0 +1,125 @@
+main.main {
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+}
+
+.body {
+    background-image: url("images/first_bg.jpg");
+}
+
+.section-root {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+.div-left {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    min-width: 40%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    margin-right: auto;
+    align-items: center;
+    padding: 10px;
+}
+
+.div-right {
+    display: flex;
+    flex-direction: column;
+    min-width: 40%;
+    max-width: 100%;
+    min-height: 100%;
+    max-height: 100%;
+    background-color: white;
+    margin-left: auto;
+    border-left: 1px groove black;
+    padding: 10px;
+}
+
+.header-center {
+    align-self: center;
+}
+
+.header2 {
+    padding: 1%;
+}
+
+.img1 {
+    padding: 1%;
+    margin-top: 1%;
+}
+
+
+div.base {
+    align-self: flex-start;
+}
+
+div.footer-center {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+}
+
+h1.main {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+footer.main {
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+
+}
+
+code.code {
+    color: #000;
+    background: 0 0;
+    text-shadow: 0 1px #fff;
+    font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+    font-size: 1em;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 1.5;
+    tab-size: 4;
+    hyphens: none;
+
+}
+
+pre.pre {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    overflow: auto;
+    overflow-y: hidden;
+    font-size: 12px;
+    line-height: 20px;
+    background: #efefef;
+    border: 1px solid #777;
+
+}
+
+div.code {
+    padding: 10px;
+    color: #333;
+}
