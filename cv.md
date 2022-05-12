@@ -1,4 +1,4 @@
-- [rsschool-cv](https://github.com/daniilpap/rsschool-cv/cv)
+- [rsschool-cv](https://daniilpap.github.io/rsschool-cv/)
 
 # Daniil Paputsa
 ## Junior Developer
