@@ -52,7 +52,7 @@
                 <h3 class="header2">Languages</h3>
                 <div class="base">
                     <ul>
-                        <li>English - А2</li>
+                        <li>English - Intermediate</li>
                         <li>Russian - Native</li>
                     </ul>
                 </div>
@@ -86,11 +86,14 @@
                         <p>Add a click event handler to the button :</p>
                         <pre class="pre">
 <code class="code">
-    if (document.getElementsByClassName) {
-        x = document.getElementsByClassName("pagination")
-        if ( x.length>y) {
-            x.style.visibility = "hidden";
-        }
+    const btn = document.querySelector('button');
+    btn.addEventListener('click', () => {
+    alert('You have pressed the button!');
+
+    let pElem = document.createElement('p');
+    pElem.textContent = 'This is the created paragraph.';
+    document.body.appendChild(pElem);
+    });
 </code>
                         </pre>
                     </div>
